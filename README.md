@@ -1,5 +1,6 @@
 # magazine
 
+https://tanishka-khamesara.github.io/magazine/index.html
 
 
 
